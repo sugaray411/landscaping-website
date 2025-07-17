@@ -241,10 +241,10 @@ export default function LawnCare() {
               Get Free Estimate
             </Link>
             <a
-              href="tel:(301) 828-0207"
+              href="tel:2026778451"
               className="bg-white text-gray-900 hover:bg-gray-100 px-8 py-4 text-lg font-semibold rounded-lg transition-colors"
             >
-              Call (301) 828-0207
+              Call 2026778451
             </a>
           </div>
         </div>

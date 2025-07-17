@@ -361,10 +361,10 @@ export default function TreeServices() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <a
-              href="tel:(301) 828-0207"
+              href="tel:2026778451"
               className="bg-white text-red-600 hover:bg-gray-100 px-8 py-4 text-lg font-semibold rounded-lg transition-colors"
             >
-              Emergency: (301) 828-0207
+              Emergency: 2026778451
             </a>
             <Link
               to="/#contact"
@@ -391,10 +391,10 @@ export default function TreeServices() {
               Get Free Assessment
             </Link>
             <a
-              href="tel:(301) 828-0207"
+              href="tel:2026778451"
               className="bg-white text-gray-900 hover:bg-gray-100 px-8 py-4 text-lg font-semibold rounded-lg transition-colors"
             >
-              Call (301) 828-0207
+              Call 2026778451
             </a>
           </div>
         </div>

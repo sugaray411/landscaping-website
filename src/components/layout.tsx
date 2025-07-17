@@ -33,18 +33,18 @@ export default function Layout({ children }: LayoutProps) {
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap justify-between items-center text-sm">
             <div className="flex items-center space-x-4">
-              <a href="mailto:edwingrivera21@hotmail.com" className="hover:text-green-300">
-                📧 edwingrivera21@hotmail.com
+              <a href="mailto:sugar.raymond200@outlook.com" className="hover:text-green-300">
+                📧 sugar.raymond200@outlook.com
               </a>
               <a href="https://maps.app.goo.gl/Pne4BxoercNeAxL67" className="hover:text-green-300">
                 📍 Bowie, Maryland
               </a>
               <a href="https://www.facebook.com/RiverasLandscapingLLC.MD/" className="hover:text-green-300">
-                📘 Riveras Landscaping LLC
+                📘 Raylanscaping
               </a>
             </div>
             <div className="flex items-center space-x-4">
-              <a href="tel:(301) 828-0207" className="text-lg font-bold">(301) 828-0207</a>
+              <a href="tel:2026778451" className="text-lg font-bold">2026778451</a>
               <button
                 onClick={() => location.pathname === '/' ? smoothScroll('contact') : null}
                 className="bg-green-600 px-4 py-2 rounded hover:bg-green-700 transition-colors"
@@ -195,7 +195,7 @@ export default function Layout({ children }: LayoutProps) {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             {/* Logo and Main Menu */}
             <div>
-            <img src="https://ext.same-assets.com/916247137/1111513349.png" alt="Rivera Landscaping LLC" className="h-16 mb-6" />
+            <img src="https://ext.same-assets.com/916247137/1111513349.png" alt="Raylanscaping" className="h-16 mb-6" />
               <h3 className="text-lg font-bold mb-4">MAIN MENU</h3>
               <ul className="space-y-2">
                 <li><Link to="/" className="hover:text-green-400 transition-colors">🏠 HOME</Link></li>
@@ -240,9 +240,9 @@ export default function Layout({ children }: LayoutProps) {
             <div>
               <h3 className="text-lg font-bold mb-4">CONTACT DETAILS</h3>
               <ul className="space-y-2">
-                <li><a href="tel:(301) 828-0207" className="hover:text-green-400 transition-colors">📞 (301) 828-0207</a></li>
-                <li><a href="https://www.facebook.com/RiverasLandscapingLLC.MD/" className="hover:text-green-400 transition-colors">📘 Riveras Landscaping LLC</a></li>
-                <li><a href="mailto:edwingrivera21@hotmail.com" className="hover:text-green-400 transition-colors">📧 edwingrivera21@hotmail.com</a></li>
+                <li><a href="tel:2026778451" className="hover:text-green-400 transition-colors">📞 2026778451</a></li>
+                <li><a href="https://www.facebook.com/RiverasLandscapingLLC.MD/" className="hover:text-green-400 transition-colors">📘 Raylanscaping</a></li>
+                <li><a href="mailto:sugar.raymond200@outlook.com" className="hover:text-green-400 transition-colors">📧 sugar.raymond200@outlook.com</a></li>
                 <li><a href="https://maps.app.goo.gl/Pne4BxoercNeAxL67" className="hover:text-green-400 transition-colors">📍 Bowie, Maryland</a></li>
                 <li className="flex items-center">🕒 Mon - Fri: 7:00AM to 7:00PM<br />Saturday: 8:00AM to 3:00PM</li>
               </ul>
@@ -251,7 +251,7 @@ export default function Layout({ children }: LayoutProps) {
             {/* Additional Info */}
             <div>
               <p className="text-sm text-gray-400 mb-4">
-                2024 Copyright <strong>RIVERAS LANDSCAPING LLC.</strong> All Rights Reserved.
+                2024 Copyright <strong>RAYLANSCAPING.</strong> All Rights Reserved.
               </p>
               <p className="text-sm text-gray-400">
                 Design by <strong>GOLDEN DIGITAL SOLUTIONS.</strong>
@@ -263,7 +263,7 @@ export default function Layout({ children }: LayoutProps) {
 
       {/* Call Now Button (Fixed) */}
       <a
-        href="tel:(301) 828-0207"
+        href="tel:2026778451"
         className="fixed bottom-6 right-6 bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-full shadow-lg transition-colors z-50"
       >
         📞 Call Now

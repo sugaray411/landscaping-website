@@ -124,7 +124,7 @@ export default function Home() {
               Why Choose Us For Your Landscaping Needs?
             </h2>
             <p className="text-lg text-gray-600 max-w-4xl mx-auto">
-              <strong>Riveras Landscaping LLC</strong> has established itself as a trusted name in the landscaping industry due to its more than 7 years of industry expertise.
+              <strong>Raylanscaping</strong> has established itself as a trusted name in the landscaping industry due to its more than 7 years of industry expertise.
             </p>
             <p className="text-lg text-gray-600 max-w-4xl mx-auto mt-4">
               We take great pride in our work and are committed to providing exceptional customer service. Here's why you should choose us for your landscaping needs:
@@ -149,7 +149,7 @@ export default function Home() {
             <div>
               <h3 className="text-3xl font-bold text-gray-800 mb-6">Customized Solutions For Your Unique Needs</h3>
               <p className="text-gray-600 mb-6">
-                We comprehend that every client has unique preferences and requirements when it comes to their landscaping projects. At <strong>Riveras Landscaping LLC</strong>, we take the time to listen to your ideas and work closely with you to create customized solutions that meet your specific needs. From design to installation, we strive to exceed your expectations.
+                We comprehend that every client has unique preferences and requirements when it comes to their landscaping projects. At <strong>Raylanscaping</strong>, we take the time to listen to your ideas and work closely with you to create customized solutions that meet your specific needs. From design to installation, we strive to exceed your expectations.
               </p>
               <p className="text-gray-600">
                 We believe in delivering nothing less than the highest standard workmanship. Our team pays meticulous attention to detail, ensuring that every aspect of your landscaping project is executed with precision and care. From selecting the right plants to installing hardscapes, we take pride in our craftsmanship and aim for excellence in every project we undertake.
@@ -164,7 +164,7 @@ export default function Home() {
             <div>
               <h3 className="text-3xl font-bold text-gray-800 mb-4">Our Mission</h3>
               <p className="text-gray-600 mb-8">
-                At Riveras Landscaping LLC, our mission is to transform ordinary outdoor spaces into extraordinary landscapes that leave a lasting impression. We are dedicated to providing exceptional landscaping services that enhance the beauty, functionality, and value of your property.
+                At Raylanscaping, our mission is to transform ordinary outdoor spaces into extraordinary landscapes that leave a lasting impression. We are dedicated to providing exceptional landscaping services that enhance the beauty, functionality, and value of your property.
               </p>
 
               <h3 className="text-3xl font-bold text-gray-800 mb-4">Our Vision</h3>
@@ -186,8 +186,8 @@ export default function Home() {
             <div className="flex items-center space-x-4">
               <span className="text-2xl">🍃</span>
               <span className="text-xl font-bold">CONTACT US TODAY AND GET A FREE ESTIMATE</span>
-              <a href="tel:(301) 828-0207" className="text-2xl font-bold hover:text-green-200 transition-colors">
-                (301) 828-0207
+              <a href="tel:2026778451" className="text-2xl font-bold hover:text-green-200 transition-colors">
+                2026778451
               </a>
             </div>
           </div>
@@ -199,7 +199,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold text-gray-800 mb-8">Your Satisfaction Is Our Priority</h2>
           <p className="text-lg text-gray-600 max-w-4xl mx-auto mb-8">
-            At <strong>Riveras Landscaping LLC</strong>, we are dedicated to delivering high-end workmanship and providing exceptional customer service. We utilize top-of-the-line equipment and materials to ensure that every project is completed to the highest standards.
+            At <strong>Raylanscaping</strong>, we are dedicated to delivering high-end workmanship and providing exceptional customer service. We utilize top-of-the-line equipment and materials to ensure that every project is completed to the highest standards.
           </p>
           <p className="text-lg text-gray-600 max-w-4xl mx-auto">
             You can trust us to transform your outdoor space into a beautiful oasis. Customer satisfaction is our top priority, and we strive to exceed your expectations with our professionalism, attention to detail, and timely completion of projects.
@@ -427,8 +427,8 @@ export default function Home() {
             <h2 className="text-4xl font-bold mb-4">Schedule An Onsite Estimate</h2>
             <p className="text-xl">
               You can also contact an expert at the number{' '}
-              <a href="tel:(301) 828-0207" className="text-green-400 font-bold hover:text-green-300 transition-colors">
-                (301) 828-0207
+              <a href="tel:2026778451" className="text-green-400 font-bold hover:text-green-300 transition-colors">
+                2026778451
               </a>
             </p>
           </div>
